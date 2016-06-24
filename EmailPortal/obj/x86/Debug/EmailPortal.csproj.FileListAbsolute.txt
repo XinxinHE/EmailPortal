@@ -1,0 +1,15 @@
+C:\Users\xinxin.he\Documents\Xinxin-Projects\Programming\EmailPortal\EmailPortal\bin\Debug\EmailPortal.exe
+C:\Users\xinxin.he\Documents\Xinxin-Projects\Programming\EmailPortal\EmailPortal\bin\Debug\EmailPortal.pdb
+C:\Users\xinxin.he\Documents\Xinxin-Projects\Programming\EmailPortal\EmailPortal\obj\x86\Debug\EmailPortal.Form1.resources
+C:\Users\xinxin.he\Documents\Xinxin-Projects\Programming\EmailPortal\EmailPortal\obj\x86\Debug\EmailPortal.Properties.Resources.resources
+C:\Users\xinxin.he\Documents\Xinxin-Projects\Programming\EmailPortal\EmailPortal\obj\x86\Debug\EmailPortal.csproj.GenerateResource.Cache
+C:\Users\xinxin.he\Documents\Xinxin-Projects\Programming\EmailPortal\EmailPortal\obj\x86\Debug\EmailPortal.exe
+C:\Users\xinxin.he\Documents\Xinxin-Projects\Programming\EmailPortal\EmailPortal\obj\x86\Debug\EmailPortal.pdb
+C:\Users\xinxin.he\Documents\Xinxin-Projects\Programming\EmailPortal\EmailPortal\obj\x86\Debug\EmailPortal.csprojResolveAssemblyReference.cache
+C:\Users\xinxin.he\Documents\Xinxin-Projects\Programming\EmailPortal\EmailPortal\bin\Debug\Mail.dll
+C:\Users\xinxin.he\Documents\Xinxin-Projects\Programming\EmailPortal\EmailPortal\bin\Debug\Mail.xml
+C:\Users\xinxin.he\Documents\Xinxin-Projects\Programming\EmailPortal\EmailPortal\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\xinxin.he\Documents\Xinxin-Projects\Programming\EmailPortal\EmailPortal\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\xinxin.he\Documents\Xinxin-Projects\Programming\EmailPortal\EmailPortal\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\xinxin.he\Documents\Xinxin-Projects\Programming\EmailPortal\EmailPortal\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\xinxin.he\Documents\Xinxin-Projects\Programming\EmailPortal\EmailPortal\obj\x86\Debug\EmailPortal.csproj.ResolveComReference.cache
